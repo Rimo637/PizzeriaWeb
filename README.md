@@ -2,5 +2,5 @@
 Progetto Gruppo: Michele, Marco, Mohamed, Alessandro C.
 -Michele: css 
 -Marco: Menu pizze
--Mhoame: Menu bevande
+-Mohamed: Menu bevande
 -Alessandro C: Menu Dolci
